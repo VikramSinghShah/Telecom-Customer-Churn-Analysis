@@ -5,6 +5,12 @@
 To analyze customer churn behavior in a telecom company using Excel and build a dynamic dashboard that highlights key business metrics like churn rate, average revenue, service usage, and demographics. The goal is to help the company understand why customers are leaving and identify high-value retention opportunities.
 
 -----------------------------------------------------------------------------------------
+## 📊 Dashboard Snapshots
+<p align="center">
+  <img src="./dashboard ss/sales overview dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 1: Sales Overview Dashboard</i>
+</p>
+---
 **📁 Dataset Used:**
 
 **File:** Telecom customer churn.xlsx
